@@ -1,10 +1,10 @@
-// parametre geç bill diye 
-// bill kontrolü bill <50 percent hesabı 0.2
+// parametre bill 
+// bill kontrolü bill < 50 percent hesabı 0.2
 
 //tipCalculator 
 //bill<50 0.2
-// bill>= 50 ve bill <200 0.15
-// percent*billfonksiyon bas
+//bill>= 50 ve bill <200 0.15
+//percent*bill fonksiyonda dön
 
 function tipCalculator(bill){
     if (bill < 50){
