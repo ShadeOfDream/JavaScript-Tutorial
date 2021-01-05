@@ -11,6 +11,3 @@ if(pointTeam1 > pointTeam2){
 }else{
     console.log("Basketball Team 2 is win!");
 }
-
-//iki değişken basket takımı 
-//3 set maç s puan 3 maç ortalama her takım bir değişkene aktar yazdır if şuntakım puanı büyükse yazdır else
