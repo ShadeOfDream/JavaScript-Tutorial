@@ -8,7 +8,7 @@ console.log(lastName);
 var fullAge = true;
 console.log(fullAge);
 
-//undefined döner değer vermedik job değğişkenine 
+//undefined döner, job değişkenine değer vermedik 
 var job;
 console.log(job);
 
@@ -20,6 +20,6 @@ console.log(age);
 
 //bunları yapayalım!!
 // var 3years = 3; //rakamla başlama
-// var function = 23; //keyword
+// var function = 23; //keyword ile başlama
 // var delete = 36;
 // var if =32;
