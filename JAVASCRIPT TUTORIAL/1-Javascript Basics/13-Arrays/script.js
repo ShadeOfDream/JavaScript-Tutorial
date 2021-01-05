@@ -19,7 +19,7 @@ john.push("blue");
 john.unshift("Mr.");
 console.log(john);
 
-//hw ne anlama geliyor bu çıktı
+//hw1 bu çıktı ne anlama geliyor 
 john.pop();
 john.pop();
 john.shift();
@@ -27,7 +27,7 @@ console.log(john);
 
 console.log(john.indexOf(23));
 
-//hw2 kod okuma ödevi indexog ne demek neden -1 yaptık kontrolde ne işe yaradı 
+//hw2 kod okuma ödevi indexOf ne demek, neden -1 yaptık kontrolde ne işe yaradı 
 var isDesigner = john.indexOf("designer")=== -1 
 ? "John is not a designer" : "John is a designer";
 console.log(isDesigner);
